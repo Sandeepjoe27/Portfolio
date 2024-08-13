@@ -4,7 +4,7 @@ export default function Resume()
 {
 const config=
 {
-    link:'file:///C:/Users/vasan/Downloads/NAUKRI_SANDEEP_JOE_A%20(3).pdf'
+    link:'https://github.com/Sandeepjoe27/Portfolio/blob/master/src/assets/Sandeep.pdf'
 }
 
     return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-20'>
